@@ -6,3 +6,4 @@
 - [Solscan](https://solscan.io)
 - [Solana Chat](https://www.solanau.org/chat)
 - [Web3.js Docs](https://docs.solana.com/api/http)
+- [Solana Faucet](https://solfaucet.com/)
